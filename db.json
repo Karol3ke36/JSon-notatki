@@ -1,0 +1,24 @@
+ {
+  "notatki":[
+    {
+      "tytul":"Niemiecki",
+      "tresc":"Ich mag Bayerische Motoren Werke",
+      "data":"17.04.2008"
+    },
+    {
+      "tytul":"Zakupy",
+      "tresc":"Trzeba kupić alpine mrv-1507",
+      "data":"02.10.2026"
+    },
+    {
+      "tytul":"Spowiedź",
+      "tresc":"Spowiedź mam w piatek",
+      "data":"21.04.2137"
+    },
+    {
+      "tytul":"Juz nie mam pomyslu",
+      "tresc":"Tak jak Pan Jezus powiedział",
+      "data":"02.04.2005"
+    }
+  ]
+ }
